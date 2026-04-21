@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pdfplumber
+regex
+sentence-transformers
+pinecone
+python-dotenv
+pydantic
+numpy
+scikit-learn
+tqdm
+python-multipart
